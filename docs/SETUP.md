@@ -47,7 +47,7 @@ huggingface-cli download Qwen/Qwen3-0.6B-GGUF Qwen3-0.6B-Q8_0.gguf --local-dir ~
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/itigges22/ATLAS.git
+git clone https://github.com/kkumtree/ATLAS.git
 cd ATLAS
 ```
 
